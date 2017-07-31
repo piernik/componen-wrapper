@@ -1,0 +1,12 @@
+{
+  "name": "@lukana/component-wrapper",
+  "version": "1.0.0-alpha.0",
+  "repository": "https://github.com/dherges/ng-packaged.git",
+  "author": "lukasz piernikarczyk <biuro@lukana.pl>",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "@angular/core": "^4.1.2",
+    "@angular/common": "^4.1.2"
+  }
+}
